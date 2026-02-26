@@ -8,6 +8,7 @@ Autonomous UAV software powered by ROS2, featuring computer vision and real-time
 ## Technologies
 - ROS2 Jazzy
 - Python
+- C++
 - YOLO
 - MAVLink
 - ArduPilot
